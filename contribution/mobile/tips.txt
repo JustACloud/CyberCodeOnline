@@ -1,6 +1,7 @@
 // Contains list of short tips used to be displayed in Mobile version
 // one line one tip :)
 
+Before forging your first Secret Key you'll need to fight through each, ascending zone of an area.
 Scrap your items to get Tech Scraps, then reverse engineer them to gain PRINTING experience.
 You can sell your items in the [PLAYER MARKET].
 Your crafting ranks cannot exceed your overall LEVEL; don't waste time doing crafting research when you're capped.
