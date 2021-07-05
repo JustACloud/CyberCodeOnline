@@ -100,6 +100,8 @@ Inventory full? Sell your non-essential items in the player market or to your lo
 If you feel your inventory is constantly full, now might be a good idea to consider that new backpack upgrade.
 Being in a gang has the perks of accessing a few new AFK tasks, as well as the gang dungeon. Plus, playing with others just makes the game much better!
 Remember to please just enjoy the game, and let everyone else do the same, too!
+Spamming in General Chat is a pretty uncool thing to do, not only that, but it can also get you temporarily muted. 
+After completing a Secret Key you will need to achieve 11 levels in order to proceed into said zone. (i.e. Zone 1 to 2 requires level 11 for entry.)
 
 // Experience, Leveling
 Scrap your items to get Tech Scraps, then reverse engineer them to gain printing exp.
@@ -117,6 +119,7 @@ Doing challenge dungeons with other players is the fastest way to gain levels wh
 Complete quests for a good amount of Bitcoin and exp.
 How to level up faster? Stay away from chat.
 In order to get a key, you need to travel to all 3 subareas and fight one dungeon in each subarea.
+Having trouble scavenging? Go to the "Adventure" tab, then pick within the range of your scavenge level before scrolling to the bottom. 
 
 // Social, Chat, UI, Systems
 In the chat terminal, you can press [Up Arrow] key to access the last message you send.
