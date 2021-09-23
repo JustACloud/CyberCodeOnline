@@ -1,5 +1,5 @@
 ﻿# <div align="center"> ***Void VPN!*** </div>
-###### ~~ Referral: 7LE17YyWXdVUHH9 ~~
+###### ~~Referral: 7LE17YyWXdVUHH9~~
 
 #### Tired of losing key trades due to [Pirate] exploits? Perhaps you've lost someone you care about to a [Love] exploit? Has [UwU] driven you D:<? [L337] making your eyes feel like n00bs?
 
