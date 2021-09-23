@@ -21,6 +21,123 @@ If you would like to help to maintain CyberCode Online, please feel free to subm
 Step by step [Guide](https://cybercode-online.fandom.com/wiki/GitHub_PR_Tutorial) how to submit a PR on our GitHub
 
 ## Updates 
+### **2021/09/23 v0.699**
+ * UPDATE - Unit purchases with PayPal will now give 10% additional units 
+ * UI - Updated unit purchase UI
+
+### **2021/09/22 v0.699**
+ * UPDATE - Daily reward will now reset after you have claimed all rewards
+ * UI - Daily reward interface is updated
+ * NEW - Added `Protocol Breach Shard`, drops in `Common Locked Container` and enemies 
+ * BUFF - `Hack SL Data Fortress` now requires `Protocol Breach Shard` instead of `AI Core`
+ * BUFF - Now recycling `Ammo Tech Parts` takes much less time
+
+### **2021/09/21 v0.687**
+ * BUFF - Gang dungeon boss exp has been increased by 10%
+ * BUFF - Gang dungeon boss now drops more `Rare`+ items, also `Locked Container` now is also `Rare`+
+
+### **2021/09/19 v0.687**
+ * FIX - Fixed minor bug related to the new music system
+ * FIX - Fixed multiple typo thanks to @Azure
+
+### **2021/09/15 v0.687**
+ * UPDATE - Rework background music system, now supports multiple track base on player location. 
+ * UPDATE - Added new track for `Market` location, credits to [Sakura](https://cybercodeonline.com/player?playerName=Sakura) 💗
+ 
+### **2021/09/10 v0.687**
+ * UI - New backpack mechant image (previous one was too similar to Cyberpunk 2077's character)
+ * UI - Added one more enemy image for combat UI
+
+### **2021/09/09 v0.687**
+ * UPDATE - Increased drop rate of `Locked Safe Box (Captcha)` on street fights and also added `Locked Container` to drop table
+ * Android - Updated the apk file on Playstore, the file size is reduced from 7MB to 3MB
+
+### **2021/09/07 v0.687**
+ * UPDATE - Added `Cringe Kids Prevention Mesures (CKPM)` System will automatically detect Cringe Kids who wants to come troll and prevent them from sending chat message before they are level 5 prevent, also prevents players from deleting accounts as soon as it is created
+ * UPDATE - System auto mute for spam will no longer announce on global chat
+
+### **2021/09/05 v0.687**
+ * UI - Added filter in dungeon list to show only dungeons you can join
+ * UI - Added fixed tip on AFK screen explaining closing game will not interupt AFK process 
+
+### **2021/09/04 v0.687**
+ * BUFF - Now `SL Data fortress breach` task will no longer reset everyday
+ * BUFF - Now `SL Data fortress breach` task will have chance to give `Calibration Precision (Common)` effect
+ * BUFF - Now `Collect protection fee` task will have high chance of dropping `Locked containers`
+ * BUFF - Now `Collect protection fee` allows to repeat maximun 2 times instead of 1 previously
+
+### **2021/09/02 v0.687**
+ * OPTIMIZATION - Server optimization and code clean up
+ * UPDATE - if you have more then one donation active, the higher tier one will take priority (for example, from paypal + playstore)
+### **2021/08/30 v0.687**
+ * FIX - Fixed after crafting any backpack if equppting the same backpack, the new backpack will not show up untill you unequip your current backpack
+ * BUFF - Now common container will drop ‵Gang Supply Crate‵
+ * FIX - Fixed attack sound effect cannot be disabled via setting
+ * UI - Added simple enemy graphic on battle UI
+
+### **2021/08/28 v0.687**
+ * UI - Makes travel button loading background darker, so it's easier to read the text.
+ * OPTIMIZATION - Background music should now load faster, especially on slower internet.
+ * UPDATE - Added sound for attack and being attacked. Each weapon type has a different sound.
+ * UPDATE - Added sound for button click interaction.
+ * UPDATE - Added new setting `endable sound effect`
+ * UPDATE - Changed the old setting `disable background music` to `enable background music` to avoid confusion. (Background music will play until you disable this setting. This is expected)
+ * FIX - Sometimes after assigning a quickslot it becomes unclickable for a short time.
+ 
+### **2021/08/27 v0.687**
+ * FIX - Fix some server-side bugs
+ * OPTIMIZATION - Improved chat message rendering
+
+### **2021/08/24 v0.687**
+ * NEW - Added @Moderators tag, only use it when moderator is needed urgently, (misuse of mentions and tags can get your banned/muted, please refer to rules)
+### **2021/08/18 v0.687**
+ * FIX - Fixed time skip estimated time and cost is incorrect (just display issue, deduction was correct)
+
+### **2021/08/17 v0.687**
+ * OPTIMIZATION - General optimization for faster loading
+ * OPTIMIZATION - Improved mail list rendering 
+
+### **2021/08/15 v0.687**
+ * OPTIMIZATION - Reduced memory useage overal 
+ * OPTIMIZATION - Reduced chat message rendering time 
+ * FIX - Fixed incorrect inv slot count display
+ 
+### **2021/08/12 v0.687**
+ * OPTIMIZATION - Major improvement on inventory rendering speed
+
+### **2021/08/11 v0.687**
+ * OPTIMIZATION - Chat message optimization
+ * FIX - fixed enter dungeon screen not scrollable on smaller screens
+
+### **2021/08/10 v0.687**
+ * BALANACE - With many player request, gang dungeon boss will now drop `Locked Container` and a guaranteed rare+ item, but overal exp is reduced from +30% of challange dungeon to +20%
+ * FIX - Fixed `!` and `?` in dungeon
+ * UI - Fix fullscreen popup on device doesnt support backdrop-blur css property
+ * UI - Fix fullscreen popup looks weird on big screen
+ * UI - Updated tutorial popover logic
+ * FIX - fixed issue with dungeon spam
+
+### **2021/08/09 v0.680**
+ * UI - Updated dungeon list display
+ * REWORK - After listening alot of player feedbacks and long discussions with both players and mod team, many have suggested making gnag dungeon to be harder but gives more exp then challange dungeon so it can be a better candiate for level grinding. So, in this update, there are several changes for gang dungeon to address that:
+   * Reduced number of rooms - one of the concern was that there were too many rooms making it less viable then challange dungeon causing it to have less exp gang overal, so number of rooms is reduced to exactly same as challenge dungeon
+   * Increased EXP - now all exp from gang dungeon has been increased to 130% of challange dungeon, with all other factors equal (same amount of rooms & enemies) this increase of EXP should directly reflect the amount of exp gained compare to challange dungeon
+   * Increased in difficultiy - With many feedback regarding to gang dungeon was way too easiy and wanted more challange, also with the increase in EXP, the difficulty is increased, effectively gang dungeon is now "Challange++", you should have good (rare+) with full upgrade module attached and decent calibration on your equipments to run this dungeon fast
+   * Reduced drops - now that we want to transform gang dungeon into a grind dungeon, drops must be reduced to ensure we dont have too much overflow of loots, it will still drop gang specific items such as `Gang Resource Crate` but the amount has been reduced
+   * Gang specific drops will now also drop in AI Farm and Scavange - with gang dungeon becoming a ✌Challange ++✌ dungeon, the gang specific items will now drop in AFK tasks to ensure that players with no amazing gears can still aquire those items
+   * Increases `Gang Invasion Order Transmitter` drop rate - now gang dungeon becomes a grind dungeon the drop rate can be increased:
+     * Callange dungeom boss has 20% chance of droping 1
+     * `AI Core` farming has 0.2% chance of dropping 1
+     * Scavange has small amount of chance of dropping 1 at location above level 50
+
+### **2021/08/07 v0.680**
+ * FIX - The weird 'Enemy is dead' screen should not show up anymore
+ * FIX - fixed sometimes street fight becomes not responsive after first attck
+ * FIX - fixed the small delay on attck timing bar
+ * UI - Now you can long press on back button (at map tab, top left) to go back to city with once click
+ * OPTIMIZATION - Combat UI now renders faster and should be less likly to crash on low end devices
+ * OPTIMIZATION - Many general optimization 
+ 
 ### **2021/08/05 v0.680**
  * BALANCE -  `AI Core` afk farming will also drop `Gang Invasion Order Transmitter` and `Locked Container`
  * BALANCE -  `AI Core` exp increased
